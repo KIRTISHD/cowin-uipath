@@ -122,7 +122,7 @@
                 </ui:Target>
               </ui:Click.Target>
             </ui:Click>
-            <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="677,22" sap2010:WorkflowViewState.IdRef="Delay_1" />
+            <Delay Duration="00:00:01" sap:VirtualizedContainerService.HintSize="677,22" sap2010:WorkflowViewState.IdRef="Delay_1" />
             <ui:Check AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" Action="Check" DisplayName="Check  - 18+" sap:VirtualizedContainerService.HintSize="677,106" sap2010:WorkflowViewState.IdRef="Check_1">
               <ui:Check.Target>
                 <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="2486a8c3-bbd0-44e2-a0ba-d4c8c0f5e1e0" InformativeScreenshot="caff645367be33cc63083f007265c583" Selector="&lt;webctrl id='c1' tag='INPUT' type='checkbox' aaname='Age 18+' /&gt;">
